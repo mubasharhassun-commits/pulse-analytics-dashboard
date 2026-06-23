@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# pulse-analytics-dashboard
+📊 AI-powered email marketing analytics dashboard — open rates, click tracking, campaign performance insights built with modern web tech.
+>>>>>>> 59f69b0350718cc83b3bc2e221c64e30c4c485c0
